@@ -1,0 +1,9 @@
+{
+    "playApps": [
+        "com.whatsapp"
+    ],
+    "plugins": [
+        "woocommerce"
+    ],
+    "alertOnNegativeOnly": true
+}
