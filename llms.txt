@@ -1,0 +1,14 @@
+# Review Scraper & Monitor
+
+> Collect app, game, plugin or store reviews and detect which ones are new since the last run.
+
+- Actor: data_foundry/review-scraper
+- URL: https://apify.com/data_foundry/review-scraper
+- Publisher: Data Foundry (https://apify.com/data_foundry)
+- Category: Monitoring
+- Pricing: $10 per 1,000 subjects scanned; pay per event, no subscription, failures not billed
+- Input: app IDs, Play package names, Steam app IDs, plugin slugs, directory slugs
+- Output: normalised reviews plus a per-subject signal with new and negative counts
+- Run: apify call data_foundry/review-scraper
+- API: POST https://api.apify.com/v2/acts/data_foundry~review-scraper/runs
+- More actors: https://apify.com/data_foundry
