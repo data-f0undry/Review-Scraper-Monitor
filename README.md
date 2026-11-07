@@ -5,7 +5,7 @@
 
 Reviews from 11 public sources in one schema, with a diff of what is new since the last run.
 
-App stores, Steam, WordPress, Chrome Web Store, TrustRadius and review directories each publish reviews in a different shape. This Actor normalises all of them, then compares against the previous run so you get new reviews rather than the whole feed again.
+App stores, Steam, WordPress, Chrome Web Store, TrustRadius and review directories each publish reviews in a different shape. This Actor normalises all of them, then compares against the previous run so you get new reviews rather than the whole list again.
 
 ## Quick facts
 
